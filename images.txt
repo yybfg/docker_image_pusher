@@ -1,3 +1,3 @@
 nginx
 alpine
-illuspas/xcgo
+illuspas/xcgo:last
